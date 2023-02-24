@@ -1,0 +1,112 @@
+{
+  "loading_checkout": "Caricamento pagina di checkout...",
+  "billing_address": "Indirizzo di fatturazione",
+  "billing_as_shipping": "Utilizza questo indirizzo anche per la spedizione",
+  "use_billing_address": "Usa questo indirizzo di fatturazione",
+  "use_address": "Usa questo indirizzo",
+  "shipping_address": "Indirizzo di spedizione",
+  "use_shipping_address": "Usa questo indirizzo di spedizione",
+  "store_credit_card_payment": "Salva la carta di credito per pagamenti futuri o preordini effettuati",
+  "store_paypal_payment": "Salva il tuo account PayPal per pagamenti futuri o preordini effettuati",
+  "credit_card_number": "Numero carta di credito",
+  "credit_card_expiration": "Scadenza",
+  "credit_card_empty_field": "Tutti i campi sono vuoti! Prego inserire i dati della carta di credito.",
+  "payment_saving_mandatory_info": "Se acquisti articoli in preordine è necessario salvare un pagamento",
+  "add_new_credit_card": "Aggiungi una carta di credito",
+  "add_new_paypal_account": "Aggiungi un account PayPal",
+  "alert_disable_store_payment": "Salva un pagamento per acquistare articoli in preordine con addebito al momento della spedizione. Disabilitando, l'addebito sarà immediato.",
+  "checkout_transaction_overlay_lock": "Elaborazione del tuo ordine ...",
+  "checkout": {
+    "error": {
+      "itemNotMatch": "Il tuo carrello si è aggiornato."
+    }
+  },
+  "availability": {
+    "outOfStock": "Non disponibile",
+    "inStock": "Disponibile",
+    "preorder": "In preordine",
+    "discontinued": "Fuori produzione"
+  },
+  "availabilityMessage": {
+    "outOfStock": "Al momento l'articolo non è disponibile",
+    "inStock": "L'articolo è in magazzino e può essere spedito immediatamente",
+    "preorder": "Preordina aggiungendo una carta di credito o PayPal al tuo account. Nessun pagamento richiesto, l'addebito avverrà al momento della spedizione.",
+    "discontinued": "L'articolo non è più in produzione"
+  },
+  "orderStatus": {
+    "pending": "In attesa di pagamento",
+    "paid": "Pagato",
+    "inProcessing": "In lavorazione",
+    "shipped": "Spedito",
+    "voided": "Annullato",
+    "filed": "Archiviato"
+  },
+  "payment": {
+    "credit-card": "Carta di credito",
+    "paypal": "Paypal",
+    "mybank": "MyBank",
+    "bank-transfer": "Bonifico bancario",
+    "financing": "Finanziamento",
+    "revolve-payment-card": "Finanziamento Carte in rete"
+  },
+  "title": {
+    "cart": "Carrello",
+    "notFound": "Pagina non trovata",
+    "privacyPolicy": "Privacy policy",
+    "brand": "Mappa delle marche",
+    "checkout": "Checkout",
+    "contacts": "Contatti",
+    "login": "Login",
+    "home": "Modellismo Ferroviario, Plastici, Utensili, Modellismo dinamico e statico, Editoria e molto altro!",
+    "order": "Ordini",
+    "payments": "I miei pagamenti",
+    "wishlist": "Lista dei desideri",
+    "profile": "Profilo",
+    "dashboard": "Il mio account",
+    "register": "Registrati"
+  },
+  "description": {
+    "home": "Tutto quello che ti serve per il tuo hobby ai prezzi più bassi ed in 24/48h a casa tua! Spedizione gratuita per ordini superiori a 99 euro.",
+    "brand": "Scopri tutti i Brand."
+  },
+  "filter": {
+    "news": "Novità",
+    "promo": "Promozioni",
+    "preorder": "Articoli in preordine",
+    "used": "Usato",
+    "discount": "Sconti a tempo"
+  },
+  "titleTemplate": "TecnoModel.it",
+  "deliveryMessage": "Consegna entro",
+  "orderLimit": "se ordini entro",
+  "day": "giorno | giorni",
+  "hour": "ora | ore",
+  "minute": "minuto | minuti",
+  "second": "secondo | secondi",
+  "result": "risultato | risultati",
+  "item": "articolo | articoli",
+  "for": "per",
+  "weekDayName": [
+    "Domenica",
+    "Lunedì",
+    "Martedì",
+    "Mercoledì",
+    "Giovedì",
+    "Venerdì",
+    "Sabato"
+  ],
+  "monthName": [
+    "Gennaio",
+    "Febbraio",
+    "Marzo",
+    "Aprile",
+    "Maggio",
+    "Giugno",
+    "Luglio",
+    "Agosto",
+    "Settembre",
+    "Ottobre",
+    "Novembre",
+    "Dicembre"
+  ]
+}

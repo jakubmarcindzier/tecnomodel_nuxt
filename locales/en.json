@@ -1,0 +1,112 @@
+{
+  "loading_checkout": "Loading Checkout Page...",
+  "billing_address": "Billing Address",
+  "billing_as_shipping": "Use the same address for shipping",
+  "use_billing_address": "Use this billing address",
+  "use_address": "Use this address",
+  "shipping_address": "Shipping Address",
+  "use_shipping_address": "Use this shipping address",
+  "store_credit_card_payment": "Store Credit Card for future payments or pre-orders made",
+  "store_paypal_payment": "Store PayPal account for future payments or pre-orders made",
+  "credit_card_number": "Credit card number",
+  "credit_card_expiration": "Expiration",
+  "credit_card_empty_field": "All fields are empty! Please fill out the form.",
+  "payment_saving_mandatory_info": "If you buy pre-order items, a payment must be saved",
+  "add_new_credit_card": "Add a credit card",
+  "add_new_paypal_account": "Add a PayPal account",
+  "alert_disable_store_payment": "Save a payment to purchase pre-order items that are charged at the time of shipment. Disabling, the charge will be immediate.",
+  "checkout_overlay_lock": "Processing your order...",
+  "checkout": {
+    "error": {
+      "itemNotMatch": "Your cart is updated."
+    }
+  },
+  "availability": {
+    "outOfStock": "Sold out",
+    "inStock": "In stock",
+    "preorder": "Preorder",
+    "discontinued": "Discontinued"
+  },
+  "availabilityMessage": {
+    "outOfStock": "Al momento l'articolo non è disponibile",
+    "inStock": "L'articolo è in magazzino e può essere spedito immediatamente",
+    "preorder": "Preordina aggiungendo una carta di credito o PayPal al tuo account. Nessun pagamento richiesto, l'addebito avverrà al momento della spedizione.",
+    "discontinued": "L'articolo non è più in produzione"
+  },
+  "orderStatus": {
+    "pending": "Pending",
+    "paid": "Paid",
+    "inProcessing": "In processing",
+    "shipped": "Shipped",
+    "voided": "Voided",
+    "filed": "Filed"
+  },
+  "payment": {
+    "credit-card": "Credit card",
+    "paypal": "Paypal",
+    "mybank": "MyBank",
+    "bank-transfer": "Bank transfer",
+    "financing": "Financing",
+    "revolve-payment-card": "Revolve payment card"
+  },
+  "title": {
+    "cart": "Cart",
+    "notFound": "Page not found",
+    "privacyPolicy": "Privacy policy",
+    "brand": "Brands map",
+    "checkout": "Checkout",
+    "contacts": "Contacts",
+    "login": "Login",
+    "home": "Railway Modeling, Layouts, Tools, Dynamic and Static Modeling, Publishing and much more!",
+    "order": "Order",
+    "payments": "My payments",
+    "wishlist": "Wishlist",
+    "profile": "Profile",
+    "dashboard": "My account",
+    "register": "Register"
+  },
+  "description": {
+    "home": "Everything you need for your hobby at the lowest prices and in 24/48h at your home! Free shipping for orders over 99 euros.",
+    "brand": "Discover all the brands."
+  },
+  "filter": {
+    "news": "News",
+    "promo": "Promo",
+    "preorder": "Preorder",
+    "used": "Used",
+    "discount": "Time discount"
+  },
+  "titleTemplate": "TecnoModel.it",
+  "deliveryMessage": "Delivery within",
+  "orderLimit": "if you order",
+  "day": "day | days",
+  "hour": "hour | hours",
+  "minute": "minute | minutes",
+  "second": "second | seconds",
+  "result": "result | results",
+  "item": "item | items",
+  "for": "per",
+  "weekDayName": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "monthName": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ]
+}
