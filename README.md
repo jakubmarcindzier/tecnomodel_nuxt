@@ -1,0 +1,1 @@
+# tecnomodel_nuxt
